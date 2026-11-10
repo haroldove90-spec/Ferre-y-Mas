@@ -26,17 +26,12 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ onFinish }) => {
     <div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-white p-6 selection:bg-none">
       <div className="flex flex-col items-center text-center max-w-sm w-full animate-in fade-in zoom-in-95 duration-500">
         
-        {/* Splash Logos sin encapsular */}
-        <div className="flex items-center justify-center gap-4 mb-6">
-          <img
-            src="https://daloocomercializadora.com.mx/ferreicono.png"
-            alt="Ferre y Más Icono"
-            className="h-16 sm:h-20 w-auto object-contain"
-          />
+        {/* Splash Logo sin encapsular */}
+        <div className="flex items-center justify-center mb-6">
           <img
             src="https://daloocomercializadora.com.mx/ferrelogo.png"
             alt="Ferre y Más Logo"
-            className="h-16 sm:h-20 w-auto object-contain"
+            className="h-20 sm:h-28 w-auto object-contain drop-shadow-xs"
           />
         </div>
 
