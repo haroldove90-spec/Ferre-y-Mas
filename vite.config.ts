@@ -27,13 +27,13 @@ export default defineConfig(() => {
           scope: '/',
           icons: [
             {
-              src: 'https://appdesignproyectos.com/futuraicono.png',
+              src: 'https://daloocomercializadora.com.mx/ferreicono.png',
               sizes: '192x192',
               type: 'image/png',
               purpose: 'any',
             },
             {
-              src: 'https://appdesignproyectos.com/futuraicono.png',
+              src: 'https://daloocomercializadora.com.mx/ferreicono.png',
               sizes: '512x512',
               type: 'image/png',
               purpose: 'any',

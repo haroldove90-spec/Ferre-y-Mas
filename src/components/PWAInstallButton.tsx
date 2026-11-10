@@ -49,9 +49,9 @@ export const PWAInstallButton: React.FC<{ compact?: boolean }> = ({ compact = fa
             <div className="flex items-center justify-between pb-3 border-b border-slate-100">
               <div className="flex items-center gap-2.5">
                 <img 
-                  src="https://appdesignproyectos.com/futuraicono.png" 
+                  src="https://daloocomercializadora.com.mx/ferreicono.png" 
                   alt="Ferre y Más Icono" 
-                  className="w-8 h-8 rounded-lg shadow-xs" 
+                  className="w-8 h-8 rounded-lg shadow-xs object-contain" 
                 />
                 <div>
                   <h3 className="text-base font-bold text-slate-900 leading-tight">Instalar Ferre y Más</h3>
