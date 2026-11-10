@@ -1,0 +1,6 @@
+{
+  "name": "Ferre y Más",
+  "description": "ERP integral para ferretería: Punto de Venta (POS), Almacén e Inventarios, Compras y Proveedores, y Administración con control de stock y flujo operativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
